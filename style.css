@@ -253,7 +253,7 @@ body {
 }
 
 .hero-description {
-  margin: 0 0 32px;
+  margin: 0 0 16px;
   color: var(--text-soft);
   max-width: 560px;
   line-height: 1.75;
