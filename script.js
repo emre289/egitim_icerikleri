@@ -179,6 +179,16 @@ function renderLogos() {
       ]
     },
     {
+      title: 'Yapay Zeka Modelleri',
+      links: [
+        { name: 'Gemini', url: 'https://gemini.google.com/app' },
+        { name: 'Claude', url: 'https://claude.ai/' },
+        { name: 'ChatGPT', url: 'https://chatgpt.com/' },
+        { name: 'Manus', url: 'https://manus.im/app' },
+        { name: 'Kimi', url: 'https://www.kimi.com/' }
+      ]
+    },
+    {
       title: 'Sunucu Üzerindeki Agent',
       links: [{ name: 'OpenClaw', url: 'https://openclaw.ai/' }]
     },
