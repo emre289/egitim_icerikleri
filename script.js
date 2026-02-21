@@ -162,6 +162,23 @@ function renderLogos() {
       links: [{ name: 'Remotion', url: 'https://www.remotion.dev/' }]
     },
     {
+      title: 'Vibe Coding',
+      links: [
+        { name: 'Lovable', url: 'https://lovable.dev/' },
+        { name: 'Stitch', url: 'https://stitch.withgoogle.com/' },
+        { name: 'Replit', url: 'https://replit.com/' }
+      ]
+    },
+    {
+      title: 'Sunum Oluşturma',
+      links: [
+        { name: 'NotebookLM', url: 'https://notebooklm.google.com/' },
+        { name: 'Gamma', url: 'https://gamma.app/create' },
+        { name: 'GenSpark', url: 'https://www.genspark.ai/' },
+        { name: 'Napkin', url: 'https://app.napkin.ai/' }
+      ]
+    },
+    {
       title: 'Sunucu Üzerindeki Agent',
       links: [{ name: 'OpenClaw', url: 'https://openclaw.ai/' }]
     },
